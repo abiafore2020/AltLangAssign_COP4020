@@ -7,8 +7,8 @@ This assignment required us to explore a new language and process information fr
 
 The following **basic** functionality is completed:
 
-- [ ] Read a CSV File
-- [ ] Create Getter and Setter Methods
+- [x] Read a CSV File
+- [x] Create Getter and Setter Methods
 - [ ] Clean Data
  
 The following **Methods** are implemented:
